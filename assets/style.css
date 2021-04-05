@@ -19,3 +19,7 @@ header {
   float: none; 
   margin-bottom: 10px; 
 }
+.contact {
+    padding: 10px;
+    float: left;
+}
